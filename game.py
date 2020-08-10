@@ -1,5 +1,6 @@
 import random
 secret = random.randint(1,3)
+# 模拟电脑随机出拳
 number = secret
 
 print("----------------Game Start!----------------")
