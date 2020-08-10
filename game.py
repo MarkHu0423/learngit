@@ -30,4 +30,5 @@ while number == secret :
     else:
         print("请输入1到3的数字.")
         number = secret
+        # 对输入不规范的行为进行提醒
 print("----------------Game Over!----------------")
