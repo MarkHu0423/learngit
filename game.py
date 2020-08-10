@@ -25,7 +25,7 @@ while number == secret :
         print("电脑出布,你输了")
     elif secret == 3 and number == 2:
         print("电脑出布,你赢了")
-        # 列举出所有输赢情况
+        #列出所有输赢情况
 
     else:
         print("请输入1到3的数字.")
